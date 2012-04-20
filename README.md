@@ -1,9 +1,9 @@
 OTA-Update
 ==========
 
-|-===--===--===--===--===--===-|
-|OTA Update For MooDeD ICS ROM | ChaosFirZen -> Arc/Arc S OTA Update ERA =D Kidding Here Is My OTA Info Etc...
-|-===--===--===--===--===--===-|
+
+OTA Update For MooDeD ICS ROM ChaosFirZen -> Arc/Arc S OTA Update ERA =D Kidding Here Is My OTA Info Etc...
+
 
 Disclaimer : Some OTA Keys... APP ;) 
 
